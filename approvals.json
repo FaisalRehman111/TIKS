@@ -1,24 +1,8 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "updated_at": "2026-06-13T17:30:38.257485Z",
+  "updated_at": "2026-06-13T17:30:41.011623Z",
   "licenses": [
-    {
-      "id": 3,
-      "key_plain": "QL7W-GM87-4KNW-ZVN9",
-      "key_hash": "35e127b2ed3d25e0f233a4230118bae5d267b4ff829dd826cc7ed31207f0bfc9",
-      "fingerprint_hash": "78882046f7bd4d09dbd0b9c8e646c91c2ecc2ffc175ecc5a98cf0fc3c169ae9c",
-      "fingerprint_raw": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
-      "fingerprint_wildcard": true,
-      "label": "",
-      "user_name": "",
-      "user_email": "",
-      "activation_date": "2026-06-13",
-      "expiry": null,
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-13T17:25:52.598096Z"
-    },
     {
       "id": 4,
       "key_plain": "NCQZ-K47Z-S74F-GVE4",
