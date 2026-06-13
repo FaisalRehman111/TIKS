@@ -1,24 +1,8 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "updated_at": "2026-06-13T17:25:52.598096Z",
+  "updated_at": "2026-06-13T17:30:35.282480Z",
   "licenses": [
-    {
-      "id": 1,
-      "key_plain": "WS8X-8RCH-X6GP-SCJ9",
-      "key_hash": "2b4a073316b0c9735ffc2fc0e51d004714c70728cc0ef356697375abc6cf3ba2",
-      "fingerprint_hash": "78882046f7bd4d09dbd0b9c8e646c91c2ecc2ffc175ecc5a98cf0fc3c169ae9c",
-      "fingerprint_raw": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
-      "fingerprint_wildcard": true,
-      "label": "",
-      "user_name": "FSDERTT",
-      "user_email": "",
-      "activation_date": "2026-06-13",
-      "expiry": null,
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-13T17:25:52.598096Z"
-    },
     {
       "id": 2,
       "key_plain": "SU67-C4QV-BECZ-CEA9",
