@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "updated_at": "2026-06-13T17:30:41.011623Z",
+  "updated_at": "2026-06-13T17:30:44.138508Z",
   "licenses": [
     {
       "id": 4,
@@ -12,22 +12,6 @@
       "fingerprint_wildcard": true,
       "label": "",
       "user_name": "FSDTY",
-      "user_email": "",
-      "activation_date": "2026-06-13",
-      "expiry": null,
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-06-13T17:25:52.598096Z"
-    },
-    {
-      "id": 5,
-      "key_plain": "KL47-F9YK-BS8W-TKZA",
-      "key_hash": "f42ddf60fbc03f7733fea397f509f4d9cf00a63ce9a3153625d61f322e519ce2",
-      "fingerprint_hash": "78882046f7bd4d09dbd0b9c8e646c91c2ecc2ffc175ecc5a98cf0fc3c169ae9c",
-      "fingerprint_raw": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
-      "fingerprint_wildcard": true,
-      "label": "",
-      "user_name": "FSERTTTT",
       "user_email": "",
       "activation_date": "2026-06-13",
       "expiry": null,
