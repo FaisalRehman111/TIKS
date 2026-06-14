@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "updated_at": "2026-06-14T04:20:27.593029Z",
+  "updated_at": "2026-06-14T04:25:39.680607Z",
   "licenses": [
     {
       "id": 1,
@@ -32,6 +32,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-14T04:20:27.592087Z"
+    },
+    {
+      "id": 3,
+      "key_plain": "WSDMX-LRXEZ-I2CHE-SF7NP-6FA09",
+      "key_hash": "c1181a44ebf8b73b00932064f291ab9f07c12b8b28571eabcbdefba29cae7cf9",
+      "fingerprint_hash": "cd06ce4b668404103dba096d12359efa66a831f6b4c2d3bc7e3c950e46c911e5",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "ramzan paid 1year",
+      "user_email": "",
+      "activation_date": "2026-06-14",
+      "expiry": "2027-06-06",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-14T04:25:39.680426Z"
     }
   ]
 }
