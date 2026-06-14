@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "updated_at": "2026-06-14T04:25:39.680607Z",
+  "updated_at": "2026-06-14T11:42:37.350887Z",
   "licenses": [
     {
       "id": 1,
@@ -47,6 +47,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-14T04:25:39.680426Z"
+    },
+    {
+      "id": 4,
+      "key_plain": "VC5GT-OAEPG-4BYWZ-G81CO-60FA2",
+      "key_hash": "7a89c5c937a6d56f7979486991d51d33fc4cfb6d81f830b6cdeff583aa6ba0cd",
+      "fingerprint_hash": "39103c1f3eb3d2a4bea15af35f69c2139969f3d2ca421f9fe44b9c1e9b56e8ad",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "nomankhrl trail 1m",
+      "user_email": "",
+      "activation_date": "2026-06-14",
+      "expiry": "2026-06-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-14T11:42:37.350090Z"
     }
   ]
 }
