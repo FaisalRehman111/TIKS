@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "updated_at": "2026-06-14T11:42:37.350887Z",
+  "updated_at": "2026-06-16T09:31:07.237299Z",
   "licenses": [
     {
       "id": 1,
@@ -62,6 +62,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-14T11:42:37.350090Z"
+    },
+    {
+      "id": 5,
+      "key_plain": "8Z745-H3NMI-1V945-WJMUY-FY7WB",
+      "key_hash": "8b8b404ae582b86fa870cdc7ce902b5d925c3d2063fcd2f121d262c043344a3d",
+      "fingerprint_hash": "1a32e0363439ec39881bbbcc261f7b0b7769d29aec90b28be0b496b31af21929",
+      "fingerprint_wildcard": false,
+      "label": "1",
+      "user_name": "asad panoati",
+      "user_email": "m",
+      "activation_date": "2026-06-16",
+      "expiry": "2026-07-06",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-16T09:31:07.236271Z"
     }
   ]
 }
